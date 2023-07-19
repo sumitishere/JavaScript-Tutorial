@@ -1,0 +1,1 @@
+Javascript is the programming language of the web. It's the worlds most popular language. It's easy to learn and this repo will guide you through all of them. Will add blogs too in later stages.
